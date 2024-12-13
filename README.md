@@ -1,1 +1,2 @@
-# tubes-aka
+# Tugas Besar Analisis Kompleksitas Algoritma
+Program ini dibuat dalam bahasa pemrogramaan C++. Tujuan pembuatan program ini adalah untuk melihat dan menganalisis perbandingan kompleksitas waktu untuk algoritma Bubble Sort secara Iteratif dan algoritma Merge Sort secara Rekursif. Dengan menggunakan data rekam Medis Pasien yang berobat pada suatu klinik kesehatan sebagai variabel kontrol, setelah dilakukan analisis diharapkan akan ditemukan metode pengurutan yang seusai dalam mengurutkan data tersebut.
