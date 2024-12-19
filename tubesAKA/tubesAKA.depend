@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1734594583 source:c:\users\daisa\desktop\coding\tugas besar\tubesaka\selection.cpp
+	"header.h"
+
+1734594195 c:\users\daisa\desktop\coding\tugas besar\tubesaka\header.h
+	<iostream>
+	<string>
+	<chrono>
+	<windows.h>
+
+1734610489 source:c:\users\daisa\desktop\coding\tugas besar\tubesaka\data.cpp
+	"header.h"
+
+1734594165 source:c:\users\daisa\desktop\coding\tugas besar\tubesaka\main.cpp
+	"header.h"
+
